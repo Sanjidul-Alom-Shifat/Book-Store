@@ -4,6 +4,6 @@ This is a front-end web application for a book store built using React, Tailwind
 
 
 ## Live Link
- * Hosted in Firebase -> [Book Store](https://books-stores.netlify.app/)
+ * Hosted in Netlify -> [Book Store](https://books-stores.netlify.app/)
 
 
